@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-09 13:05">
+  <shop>
+    <name>ТелМарт</name>
+    <company>ИП Дьячковская Ньургуйаана Григорьевна</company>
+    <url>https://youla.ru/store/641aa54fb80df6fcaf0d65b7</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Мобильные телефоны</category>
+    </categories>
+    <offers>
+      <offer id="new-len-iphone-17-pro" available="true">
+        <name>Apple iPhone 17 Pro 256 ГБ Orange eSIM+eSIM</name>
+        <price>96990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro/product-8818a593fed17c621c2c799eb4c7634cd6d9305960da722480a11626d2624d40.jpg</picture>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro/cover-278750dda828f595585231c76115fc01eb272091719b9010717341d252f7cb09.jpg</picture>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro/specs_card-948ad7116100d4d1f1a2dd168adc4be74e8d96b95d7729363389024a3f7270f8.jpg</picture>
+        <description>Apple iPhone 17 Pro, 256 ГБ, цвет Orange, SIM eSIM+eSIM.
+Новый телефон. Цена: 96 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Orange</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
