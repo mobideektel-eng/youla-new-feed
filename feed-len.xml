@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-18 16:45">
+<yml_catalog date="2026-11-20 09:52">
   <shop>
     <name>ТелМарт</name>
     <company>ИП Дьячковская Ньургуйаана Григорьевна</company>
@@ -11,18 +11,318 @@
       <category id="1">Мобильные телефоны</category>
     </categories>
     <offers>
-      <offer id="new-len-iphone-17-pro" available="true">
-        <name>iPhone 17 Pro 256Гб Рассрочка Гарантия Чек</name>
-        <price>99990</price>
+      <offer id="new-len-iphone-15" available="true">
+        <name>Apple iPhone 15 128 ГБ Blue SIM+eSIM</name>
+        <price>58990</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro/specs_card-f53124797d923d94e81d9febd2491e1319c8bfbdf45b766c3f0f2bd2dcf4d24f.jpg</picture>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-15/specs_card-040928aeed7f55f926e31b060db8334b8a1fb784e6a33efb05bb790798ad7c29.jpg</picture>
+        <description>Apple iPhone 15, 128 ГБ, цвет Blue, SIM SIM+eSIM.
+Новый телефон. Цена: 58 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">Blue</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-15-plus" available="true">
+        <name>Apple iPhone 15 Plus 128 ГБ Pink SIM+eSIM</name>
+        <price>67990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-15-plus/specs_card-db0beaaa034545fcbdd96dc2375391048c55ef9495bdbda80a8f270e8a133946.jpg</picture>
+        <description>Apple iPhone 15 Plus, 128 ГБ, цвет Pink, SIM SIM+eSIM.
+Новый телефон. Цена: 67 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">Pink</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-15-pro-max" available="true">
+        <name>Apple iPhone 15 Pro Max 256 ГБ Blue SIM+eSIM</name>
+        <price>93990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-15-pro-max/specs_card-532edc35aabf881ebf6fd9b32c24572b5b6435cd91cbad132f7295934f61e565.jpg</picture>
+        <description>Apple iPhone 15 Pro Max, 256 ГБ, цвет Blue, SIM SIM+eSIM.
+Новый телефон. Цена: 93 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Blue</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-16" available="true">
+        <name>Apple iPhone 16 128 ГБ Black SIM+eSIM</name>
+        <price>66990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-16/specs_card-c9ffc8a7631c11a8774e021196b85b92cb29e093aba2696fa8ae5c1a2b34b7fb.jpg</picture>
+        <description>Apple iPhone 16, 128 ГБ, цвет Black, SIM SIM+eSIM.
+Новый телефон. Цена: 66 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">Black</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-16-plus" available="true">
+        <name>Apple iPhone 16 Plus 128 ГБ Black SIM+eSIM</name>
+        <price>73990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-16-plus/specs_card-b26600aa0443294093c5987060be9735ba13aa327787822e81955f443e3f3bf7.jpg</picture>
+        <description>Apple iPhone 16 Plus, 128 ГБ, цвет Black, SIM SIM+eSIM.
+Новый телефон. Цена: 73 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">Black</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-16-pro" available="true">
+        <name>Apple iPhone 16 Pro 128 ГБ White SIM+eSIM</name>
+        <price>90990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-16-pro/specs_card-b540141be0557292a99c8771e82d3dcb570342b6209b69c2a025362066d180a4.jpg</picture>
+        <description>Apple iPhone 16 Pro, 128 ГБ, цвет White, SIM SIM+eSIM.
+Новый телефон. Цена: 90 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">White</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-16-pro-max" available="true">
+        <name>Apple iPhone 16 Pro Max 256 ГБ Desert SIM+eSIM</name>
+        <price>100990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-16-pro-max/specs_card-d26490aa2fedf62c2875361b68de43d9b47cb660e0d5ae45483f47bfd42a35cf.jpg</picture>
+        <description>Apple iPhone 16 Pro Max, 256 ГБ, цвет Desert, SIM SIM+eSIM.
+Новый телефон. Цена: 100 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Desert</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-16e" available="true">
+        <name>Apple iPhone 16e 128 ГБ Black eSIM+eSIM</name>
+        <price>49990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-16e/specs_card-ca00476d261a4bf7346b4c5556d57101be6618f57796227f175336b3d544024f.jpg</picture>
+        <description>Apple iPhone 16e, 128 ГБ, цвет Black, SIM eSIM+eSIM.
+Новый телефон. Цена: 49 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">128GB</param>
+        <param name="Цвет">Black</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-17" available="true">
+        <name>Apple iPhone 17 256 ГБ Blue SIM+eSIM</name>
+        <price>79990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17/specs_card-82a53605dc2e9418dcaeacffbfce752c5738f27cde8e605f6bcd248e4d244cc3.jpg</picture>
+        <description>Apple iPhone 17, 256 ГБ, цвет Blue, SIM SIM+eSIM.
+Новый телефон. Цена: 79 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Blue</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-17-air" available="true">
+        <name>Apple iPhone 17 Air 256 ГБ Blue eSIM+eSIM</name>
+        <price>79990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-air/specs_card-3d8ef5b70ad9bbcc0d6e24d4e6dda5ac837d913dfb03c26748edf474bff80101.jpg</picture>
+        <description>Apple iPhone 17 Air, 256 ГБ, цвет Blue, SIM eSIM+eSIM.
+Новый телефон. Цена: 79 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Blue</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-17-pro" available="true">
+        <name>iPhone 17 Pro 256Гб Рассрочка Гарантия Чек</name>
+        <price>98990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro/specs_card-b65af0a5729b61366f25f0f4cacaf2f0f8f87df30cdd39342fe8601b21c7541b.jpg</picture>
         <description>Apple iPhone 17 Pro, 256 ГБ, цвет Orange, SIM eSIM+eSIM.
-Новый телефон. Цена: 99 990 ₽.
+Новый телефон. Цена: 98 990 ₽.
 Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
 Визуал модели: Eugen Prostakov, CC BY 4.0; компоновка изменена.</description>
         <param name="Память">256GB</param>
         <param name="Цвет">Orange</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-17-pro-max" available="true">
+        <name>Apple iPhone 17 Pro Max 256 ГБ Orange eSIM+eSIM</name>
+        <price>102990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17-pro-max/specs_card-da036fd2fec879979dfa70d0230905367a8d41457f408cc7a792f45cdad22a46.jpg</picture>
+        <description>Apple iPhone 17 Pro Max, 256 ГБ, цвет Orange, SIM eSIM+eSIM.
+Новый телефон. Цена: 102 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Orange</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-17e" available="true">
+        <name>Apple iPhone 17e 256 ГБ Pink SIM+eSIM</name>
+        <price>66990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-17e/specs_card-560723cad9198bd2a9407b622503955463b82c2335572dfd42f92d8798d8b799.jpg</picture>
+        <description>Apple iPhone 17e, 256 ГБ, цвет Pink, SIM SIM+eSIM.
+Новый телефон. Цена: 66 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Pink</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">SIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-18-pro" available="true">
+        <name>Apple iPhone 18 Pro 256 ГБ Silver eSIM+eSIM</name>
+        <price>118990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-18-pro/specs_card-84a546de627c806cd6ab26ae08866824e5ff435ced98fe582a73d30dff970515.jpg</picture>
+        <description>Apple iPhone 18 Pro, 256 ГБ, цвет Silver, SIM eSIM+eSIM.
+Новый телефон. Цена: 118 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Silver</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-18-pro-max" available="true">
+        <name>Apple iPhone 18 Pro Max 256 ГБ Black eSIM+eSIM</name>
+        <price>128990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-18-pro-max/specs_card-5570ce20abf5f1a61f4f4a9c14707643d4d5ebd50b3e67c764f488c17d351ca5.jpg</picture>
+        <description>Apple iPhone 18 Pro Max, 256 ГБ, цвет Black, SIM eSIM+eSIM.
+Новый телефон. Цена: 128 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Black</param>
+        <param name="Состояние">Новое</param>
+        <param name="SIM">eSIM+eSIM</param>
+        <vas>
+          <turbo>0</turbo>
+          <premium>0</premium>
+          <boost>0</boost>
+        </vas>
+      </offer>
+      <offer id="new-len-iphone-duo" available="true">
+        <name>Apple iPhone Duo 256 ГБ Night Sky eSIM+eSIM</name>
+        <price>227990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://mobideektel-eng.github.io/youla-mvp-images/images/new-len-iphone-duo/specs_card-a4e4fb456ca3df252b468e1d4617e9c848ba097cf9dbd8ed391a5f30d6a8acea.jpg</picture>
+        <description>Apple iPhone Duo, 256 ГБ, цвет Night Sky, SIM eSIM+eSIM.
+Новый телефон. Цена: 227 990 ₽.
+Изображения — иллюстрации модели, не фотографии конкретного экземпляра.
+Изображение создано ИИ; внешний вид модели не подтверждён.</description>
+        <param name="Память">256GB</param>
+        <param name="Цвет">Night Sky</param>
         <param name="Состояние">Новое</param>
         <param name="SIM">eSIM+eSIM</param>
         <vas>
